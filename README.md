@@ -14,11 +14,11 @@ Simple unidirectional data flow, callbacks, state, side effects, clean & well-or
 
 ## React Features
 * Rendering lists with map (+ React project structure)
-* Components & props explained, conditional className
-* Unidirectional data flow explained, callback props
+* Components & props, conditional className
+* Unidirectional data flow, callback props
 * useState + updating state
 * Add to state in React, form, controlled vs uncontrolled input
-* Derive state (sort), component rendering explained, prop drilling, conditional rendering
+* Derive state (sort), component rendering, prop drilling, conditional rendering
 * Sibling component, filter, delete all completed todos
 * useEffect (side effects), local storage, useState initializer function
 * Custom hook

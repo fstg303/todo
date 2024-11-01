@@ -1,7 +1,7 @@
 # Todo App
 Simple unidirectional data flow, callbacks, state, side effects, clean & well-organized code.
 
-[Screenshot](https://github.com/fstg303/todo/blob/main/Your-Todos-11-01.png)
+![Screenshot](https://github.com/fstg303/todo/blob/main/Your-Todos-11-01.png)
 
 ## Features
 * View the optimal layout for the app depending on their device's screen size
